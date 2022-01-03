@@ -16,18 +16,22 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
+- description: Python, R, Java
+  icon: code
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: Programming language
+- description: Machine Learning Framework
+  icon: brain
   icon_pack: fas
-  name: Photography
+  name: Pytorch, Keras, Scikit-learn, Weka
+- description: Piano, keyboard, bass, guitar
+  icon: music
+  icon_pack: fas
+  name: Music
+- description: Apex Legends (Diamond 4 - Season 8)
+  icon: gamepad
+  icon_pack: fas
+  name: Gaming
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
