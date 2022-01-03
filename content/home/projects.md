@@ -31,6 +31,8 @@ content:
     tag: vuldet
   - name: Information security
     tag: infosec
+  - name: Social network analysis
+    tag: socialnet
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
