@@ -1,7 +1,7 @@
 ---
 title: "The rise of “blockchain”: bibliometric analysis of blockchain study"
 subtitle: Review article
-date: 2022-01-03T18:20:35.856Z
+date: 2019-09-17T17:20:35.856Z
 summary: "**Scientometrics (2019)**"
 draft: false
 featured: false
