@@ -16,14 +16,26 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Python, R, Java
+- description: Python, R, Java, Bash
   icon: code
   icon_pack: fas
-  name: Programming language
-- description: Machine Learning Framework
+  name: Programming Language
+- description: Pytorch, Keras, Scikit-learn, Weka
   icon: brain
   icon_pack: fas
-  name: Pytorch, Keras, Scikit-learn, Weka
+  name: Machine Learning Framework
+- description: Elasticsearch, Logstash/Beats, Kibana (ELK stack), Telegram Bot
+  icon: robot
+  icon_pack: fas
+  name: Automation
+- description: Cisco CCNA (Routing & Switching)
+  icon: network-wired
+  icon_pack: fas
+  name: Networking
+- description: Flask microframework, Django, Laravel
+  icon: bookmark
+  icon_pack: fas
+  name: Web Framework
 - description: Piano, keyboard, bass, guitar
   icon: music
   icon_pack: fas
