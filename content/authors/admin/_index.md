@@ -29,10 +29,10 @@ education:
   - course: PhD in Computer Security
     institution: Imperial College London, United Kingdom
     year: 2019 - ongoing
-  - course: Master of Computer Science (Research)
+  - course: Master of Computer Science (Research) - Information Security
     institution: University of Malaya, Malaysia
     year: 2018
-  - course: Bachelor of Computer Science (Hons)
+  - course: Bachelor of Computer Science (Computer Systems and Networking)
     institution: University of Malaya, Malaysia
     year: 2016
 
