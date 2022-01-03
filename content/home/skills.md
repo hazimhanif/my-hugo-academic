@@ -28,7 +28,7 @@ feature:
   icon: robot
   icon_pack: fas
   name: Automation
-- description: Cisco CCNA (Routing & Switching)
+- description: Cisco CCNA (Routing & Switching), Palo Alto Networks ACE
   icon: network-wired
   icon_pack: fas
   name: Networking
