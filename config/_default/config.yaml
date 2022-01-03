@@ -5,6 +5,8 @@
 
 title: Hazim Hanif # Website name
 baseurl: 'https://example.com/' # Website URL
+#relativeURLs: true
+#uglyURLs: true
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
