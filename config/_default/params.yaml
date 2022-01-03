@@ -57,7 +57,7 @@ show_related:
   post: true
   project: true
   publication: true
-  event: true
+  event: false
 reading_time: true
 section_pager: false
 docs_section_pager: true
