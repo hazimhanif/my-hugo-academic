@@ -1,7 +1,7 @@
 ---
 title: "DeepTective: A Hybrid Graph Neural Network Approach for Detecting PHP
   Vulnerabilities"
-subtitle: Experimental paper
+subtitle: Experimental article
 date: 2022-01-03T18:00:08.091Z
 summary: "**Proceedings of the 36th Annual ACM Symposium on Applied Computing
   (ACM SAC) 2021**"
