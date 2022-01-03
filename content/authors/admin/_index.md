@@ -41,12 +41,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/hazimfrodo
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=7XHcYZ0AAAAJ&hl=en
@@ -73,4 +67,3 @@ highlight_name: true
 
 My name is Mohamad Hazim Md Hanif and I am a PhD student in the Applied Computer Security (ACS) research group at the Department of Computing, Imperial College London, United Kingdom. My research focuses on software vulnerability detection - a topic that I explore with deep learning techniques, including sequence-based and representation learning. I collect and data from various open source C/C++ applications to train a model that can learn better representation of source code using Transformer-based architecture. I am particularly interested in analysing the representation knowledge of source code and how it can assist detection models in getting betting of detecting and localising security vulnerabilities in source code. I am a strong team player and able to work independently when needed. In my free time, I enjoy playing FPS games on my desktop, listening to fusion-jazz songs and playing musical instruments (piano, keyboard, bass, guitar).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
