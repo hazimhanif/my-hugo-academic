@@ -36,14 +36,22 @@ feature:
   icon: bookmark
   icon_pack: fas
   name: Web Framework
-- description: Piano, keyboard, bass, guitar
+- description: Ableton Live Suite, Logic Pro X, Garageband
   icon: music
+  icon_pack: fas
+  name: Music Creation/Recording
+- description: Piano, keyboard, bass, guitar
+  icon: guitar
   icon_pack: fas
   name: Music
 - description: Apex Legends (Diamond 4 - Season 8)
   icon: gamepad
   icon_pack: fas
   name: Gaming
+- description: Rugby (scrumhalf)
+  icon: football-ball
+  icon_pack: fas
+  name: Sports
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
