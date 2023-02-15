@@ -1,7 +1,7 @@
 ---
 title: "DeepTective: A Hybrid Graph Neural Network Approach for Detecting PHP
   Vulnerabilities"
-subtitle: ﻿ IEEE Conference on Dependable and Secure Computing (DSC) 2022
+subtitle: IEEE Conference on Dependable and Secure Computing (DSC) 2022
 date: 2022-01-03T18:00:08.091Z
 summary: >-
   Full paper:\
