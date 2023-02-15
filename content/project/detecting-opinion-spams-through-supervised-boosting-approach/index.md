@@ -1,6 +1,6 @@
 ---
 title: Detecting opinion spams through supervised boosting approach
-subtitle: Experimental artcile
+subtitle: PLOS One
 date: 2018-06-20T17:13:22.443Z
 summary: "**PLOS One (2018)**"
 draft: false
