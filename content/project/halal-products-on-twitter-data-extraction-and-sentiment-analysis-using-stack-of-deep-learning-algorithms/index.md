@@ -1,7 +1,7 @@
 ---
 title: "Halal Products on Twitter: Data Extraction and Sentiment Analysis Using
   Stack of Deep Learning Algorithms"
-subtitle: Experimental article
+subtitle: IEEE Access (2019)
 date: 2019-09-13T17:08:02.651Z
 summary: "**IEEE Access (2019)**"
 draft: false
