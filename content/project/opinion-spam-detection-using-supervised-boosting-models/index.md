@@ -1,6 +1,6 @@
 ---
 title: Opinion Spam Detection using Supervised Boosting Models
-subtitle: Thesis
+subtitle: MRes Thesis (2018)
 date: 2018-09-01T17:28:16.332Z
 summary: "**Master's thesis (2018)**"
 draft: false
