@@ -1,7 +1,7 @@
 ---
 title: Performance Evaluation of Machine Learning Algorithms for Spam Profile
   Detection on Twitter Using WEKA and RapidMiner
-subtitle: Experimental article
+subtitle: Advanced Science Letters (2018)
 date: 2018-02-06T18:16:48.412Z
 summary: "**Advanced Science Letters (2018)**"
 draft: false
