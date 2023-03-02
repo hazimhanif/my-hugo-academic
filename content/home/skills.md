@@ -16,11 +16,11 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Python, R, Java, Bash
+- description: Python, R, Java, Bash, C
   icon: code
   icon_pack: fas
   name: Programming Language
-- description: Pytorch, Keras, Scikit-learn, Weka
+- description: Pytorch, Pytorch Geometric, Keras, Scikit-learn, Weka
   icon: brain
   icon_pack: fas
   name: Machine Learning Framework
@@ -40,18 +40,6 @@ feature:
   icon: music
   icon_pack: fas
   name: Music Creation/Recording
-- description: Piano, keyboard, bass, guitar
-  icon: guitar
-  icon_pack: fas
-  name: Music
-- description: Apex Legends (Diamond 4 - Season 8)
-  icon: gamepad
-  icon_pack: fas
-  name: Gaming
-- description: Rugby (scrumhalf)
-  icon: football-ball
-  icon_pack: fas
-  name: Sports
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
