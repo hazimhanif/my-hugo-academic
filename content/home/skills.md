@@ -20,7 +20,7 @@ feature:
   icon: code
   icon_pack: fas
   name: Programming Language
-- description: Pytorch, Pytorch Geometric, Keras, Scikit-learn, Weka
+- description: Pytorch, Pytorch Geometric, Huggingface's Transformers & Tokenizers, Keras, Scikit-learn, Weka
   icon: brain
   icon_pack: fas
   name: Machine Learning Framework
