@@ -21,7 +21,7 @@ social:
     link: https://www.youtube.com/channel/UCgTz0XmPCzqvCyrGPHKMPRA
   - icon: envelope
     icon_pack: fas
-    link: mailto:m.md-hanif19@imperial.ac.uk
+    link: mailto:hazimhanif0@gmail.com
 organizations:
   - name: Imperial College London
     url: https://www.imperial.ac.uk/
