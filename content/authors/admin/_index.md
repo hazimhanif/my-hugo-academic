@@ -1,6 +1,6 @@
 ---
 role: Doctoral Researcher
-avatar_filename: ds.png
+avatar_filename: avatar.png
 bio: My research interests include software security and machine learning.
 interests:
   - Software security
