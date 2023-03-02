@@ -16,9 +16,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/hazimhanif/
-  - icon: youtube
-    icon_pack: fab
-    link: https://www.youtube.com/channel/UCgTz0XmPCzqvCyrGPHKMPRA
   - icon: envelope
     icon_pack: fas
     link: mailto:hazimhanif0@gmail.com
